@@ -5,7 +5,7 @@
         <param name="onload" value="true" />
     </feature>
     <hook src="scripts/prebuild.js" type="before_prepare" />
-    <name>HelloCordova</name>
+    <name>CordovaReact App</name>
     <description>
         A sample Apache Cordova application that responds to the deviceready event.
     </description>
